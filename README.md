@@ -7,7 +7,8 @@
 
 [react get initial input value from server](https://gist.github.com/pangrr/d421c416f6ed405d4b6108e55c02bb23)
 
-![Screen Recording 2025-06-16 at 8 32 43 AM](https://github.com/user-attachments/assets/bc37491b-3834-4f9b-8cae-340917249a1a)
+![Screen Recording 2025-06-16 at 9 21 35 AM](https://github.com/user-attachments/assets/e30b94de-dd4b-4979-b85a-e01ac4857da1)
+
 
 ## npm modules
 
