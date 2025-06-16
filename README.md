@@ -6,4 +6,4 @@
 
 ## code patterns
 
-[react display formatted value when input is not focused](https://github.com/pangrr/react-input-format)
+[react display formatted value when input is not focused](https://gist.github.com/pangrr/6cab16f335b2d2645fb5960ffba90a27)
