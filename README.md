@@ -18,7 +18,8 @@
 
 [react hook to truncate text in the middle](https://github.com/pangrr/react-truncate-middle)
 
-![Screenshot 2025-06-13 at 6 41 05 PM](https://github.com/user-attachments/assets/e28a1be3-984a-430e-8de2-67a1027c3ada)
+![Screenshot 2025-06-16 at 9 27 35 AM](https://github.com/user-attachments/assets/59292c11-c789-42f0-9a04-1fe0a841d6d2)
+
 
 
 react dropdown (under construction...)
